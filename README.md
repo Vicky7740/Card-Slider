@@ -1,1 +1,2 @@
 # Card-Slider
+A web page on card slider showcases a visually appealing way to display content, images, or products in a carousel-like format. Users can easily scroll through different cards with smooth transitions, making for an engaging browsing experience. The card slider can be customized with various styles and animations to suit the design aesthetic of any website. It is a popular feature for showcasing portfolios, testimonials, or products in a visually appealing and interactive way.
